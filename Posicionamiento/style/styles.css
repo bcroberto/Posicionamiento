@@ -1,0 +1,23 @@
+div{
+    border: solid;
+    border-color: #4D0084;
+    background-color: #65FEFE;
+    width: 85px;
+    position: absolute;
+    top: 10px;
+    }
+.d1{
+    left: 10px;
+    }
+#d1{
+    left: 125px;
+    }
+.d2{
+    left: 240px;
+    }
+#d2{
+    left: 355px;
+    }
+.d3{
+    left: 470px;
+    }
